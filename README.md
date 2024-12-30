@@ -39,7 +39,7 @@ To run the web application on Windows, Linux, or Mac, follow these steps:
 
 ## Screenshots
 <img src="https://github.com/javaidiqbal11/iFAKE_Application/blob/a8746b13d363116efb3dc182f22de306e8d62b56/screenshots/index.JPG" alt="Image description" width="60%">
-<img src="https://raw.githubusercontent.com/shraddhavijay/IFAKE/master/screenshots/imageDetection1.png" alt="Image description" width="60%">
+<img src="https://github.com/javaidiqbal11/iFAKE_Application/blob/f0dce997ec67f07f9338c949a2c6d7b319c889f2/screenshots/imageDetection1.png" alt="Image description" width="60%">
 <img src="https://raw.githubusercontent.com/shraddhavijay/IFAKE/master/screenshots/imageDetection2.png" alt="Image description" width="60%">
 <img src="https://raw.githubusercontent.com/shraddhavijay/IFAKE/master/screenshots/metadata.JPG" alt="Image description" width="60%">
 <img src="https://raw.githubusercontent.com/shraddhavijay/IFAKE/master/screenshots/videoDetection.png" alt="Image description" width="60%">
