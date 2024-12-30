@@ -20,13 +20,13 @@ We provide links to download our pre-trained models for image & video forgery de
 
 To run the web application on Windows, Linux, or Mac, follow these steps:
 
-1. Install Python3 and pip3
-2. Clone this repository
-3. Open a terminal and navigate to the IFAKE_WebApp folder
+1. Install Python 
+2. Clone this repository "https://github.com/javaidiqbal11/iFAKE_Application"
+3. Open a terminal and navigate to the iFAKE_WebApp folder
 4. Run the following command to install the required Python packages:
 
     ```
-    pip3 install -r requirements.txt
+    pip install -r requirements.txt
     ```
 
 5. Run the following command to start the web application:
