@@ -38,7 +38,7 @@ To run the web application on Windows, Linux, or Mac, follow these steps:
 6. Open a web browser and go to http://127.0.0.1:8000/ to access the web application.
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/shraddhavijay/IFAKE/master/screenshots/index.JPG" alt="Image description" width="60%">
+<img src="https://github.com/javaidiqbal11/iFAKE_Application/blob/a8746b13d363116efb3dc182f22de306e8d62b56/screenshots/index.JPG" alt="Image description" width="60%">
 <img src="https://raw.githubusercontent.com/shraddhavijay/IFAKE/master/screenshots/imageDetection1.png" alt="Image description" width="60%">
 <img src="https://raw.githubusercontent.com/shraddhavijay/IFAKE/master/screenshots/imageDetection2.png" alt="Image description" width="60%">
 <img src="https://raw.githubusercontent.com/shraddhavijay/IFAKE/master/screenshots/metadata.JPG" alt="Image description" width="60%">
