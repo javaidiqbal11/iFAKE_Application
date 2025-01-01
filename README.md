@@ -9,7 +9,7 @@ This repository contains two main folders:
 2. **iFAKE_WebApp** - This folder contains the web application project. The web application is built on the Django framework and provides a user-friendly interface for detecting image and video forgeries.
 
 
-## Pre-trained Models
+## Pre-Trained Models
 
 We provide links to download our pre-trained models for image & video forgery detection and classification:
 
@@ -20,7 +20,7 @@ We provide links to download our pre-trained models for image & video forgery de
 
 To run the web application on Windows, Linux, or Mac, follow these steps:
 
-1. Install Python 
+1. Install Python 3.10 or more 
 2. Clone this repository "https://github.com/javaidiqbal11/iFAKE_Application"
 3. Open a terminal and navigate to the iFAKE_WebApp folder
 4. Run the following command to install the required Python packages:
@@ -47,7 +47,4 @@ To run the web application on Windows, Linux, or Mac, follow these steps:
 
 
 
-
 The screenshots show different features of our web application, including the image and video forgery detection functionality, and the ability to upload and view results of detected forgeries.
-
-
