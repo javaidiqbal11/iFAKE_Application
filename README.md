@@ -1,5 +1,3 @@
-<!-- Adding a GIF after main title -->
-
 <h1 align="center">iFAKE - Image/Video Forgery Detection Application</h1>
 
 This repository contains two main folders:
