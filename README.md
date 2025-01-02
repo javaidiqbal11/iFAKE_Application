@@ -44,5 +44,4 @@ To run the web application on Windows, Linux, or Mac, follow these steps:
 <img src="https://github.com/javaidiqbal11/iFAKE_Application/blob/3ec57a9bca5861fbae947fe808ce1fd417bbfbb7/screenshots/pdfDetection.png" alt="Image description" width="60%">
 
 
-
 The screenshots show different features of our web application, including the image and video forgery detection functionality, and the ability to upload and view results of detected forgeries.
